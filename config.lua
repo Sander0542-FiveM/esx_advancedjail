@@ -7,10 +7,10 @@ Config.DrawDistance = 10
 Config.MarkerInfo = {Type = 27, r = 100, g = 100, b = 204, x = 1.5, y = 1.5, z = 2.0}
 Config.JailTimeSyncInterval = 60000 * 5
 
-Config.AllowEscape = false -- If true then players can Escape Jail & will notify Police.
+Config.AllowEscape = true -- If true then players can Escape Jail & will notify Police.
 Config.OnlyFirstname = false -- If true it will only show 1st Name if someone tries to Escape.
 
-Config.RemoveInventory = true -- If true it will remove players Inventory when Jailed & UnJailed
+Config.RemoveInventory = false -- If true it will remove players Inventory when Jailed & UnJailed
 Config.RemoveDirtyMoney = true -- If true it will remove players Dirty Money when Jailed & UnJailed
 
 Config.GiveFoodDrink = true -- If true it will give players Food & Drinks while in Jail & when they are Released
