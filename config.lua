@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Locale = 'en'
+Config.Locale = 'nl'
 Config.MenuAlign = 'top-left'
 
 Config.DrawDistance = 10
